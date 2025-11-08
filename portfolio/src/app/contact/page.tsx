@@ -21,11 +21,11 @@ const Contact = () => {
               <div>
                 <span className="font-semibold">Email:</span>{" "}
                 <a
-                  href="mailto:shivambhadani19@gmail.com"
+                  href="mailto:ucimazing@gmail.com"
                   target="_blank"
                   className="text-blue-700 dark:text-blue-200"
                 >
-                  shivambhadani19@gmail.com
+                  ucimazing@gmail.com
                 </a>
               </div>
             </li>
@@ -36,11 +36,11 @@ const Contact = () => {
               <div>
                 <span className="font-semibold">DM on Twitter:</span>{" "}
                 <a
-                  href="https://x.com/shivambhadani_"
+                  href="https://x.com/umesh_das_"
                   target="_blank"
                   className="text-blue-700 dark:text-blue-200"
                 >
-                  @shivambhadani_
+                  @umesh_das_
                 </a>
               </div>
             </li>
@@ -51,11 +51,11 @@ const Contact = () => {
               <div>
                 <span className="font-semibold">DM on Instagram:</span>{" "}
                 <a
-                  href="https://www.instagram.com/shivambhadani_/"
+                  href="https://www.instagram.com/ucmesh_das/"
                   target="_blank"
                   className="text-blue-700 dark:text-blue-200"
                 >
-                  @shivambhadani_
+                  @ucmesh_das
                 </a>
               </div>
             </li>
@@ -64,8 +64,8 @@ const Contact = () => {
                 <ImLocation size="1.5rem" />
               </div>
               <div>
-                <span className="font-semibold">Address:</span> Sector 57,
-                Gurugram, Haryana, PinCode - 122011, India
+                <span className="font-semibold">Address:</span> Beraberi,
+                Singur, Hooghly, West Bengal, PinCode - 712407, India
               </div>
             </li>
           </ul>

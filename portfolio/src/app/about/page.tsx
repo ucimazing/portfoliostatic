@@ -43,8 +43,8 @@ const About = () => {
         >
           <h1 className="text-2xl md:text-4xl font-bold">About Me</h1>
           <p className="mt-6 text-sm md:text-base">
-            Hi Everyone, I am Shivam Bhadani from Jharkhand, India. I have done
-            my graduation from IIT Kanpur.
+            Hi Everyone, I am Umesh Das from Kolkata, India. I have done
+            my graduation from HIT in CSE.
           </p>
           <div className="mt-8 text-sm md:text-base">
             <p>Some of my competitive programming achievements are:</p>

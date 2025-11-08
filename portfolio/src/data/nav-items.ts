@@ -7,7 +7,7 @@ const navItems: Array<INavItem> = [
   },
   {
     name: "Blogs",
-    link: "https://medium.com/@shivambhadani_"
+    link: "https://medium.com"
   },
   {
     name: "About",
