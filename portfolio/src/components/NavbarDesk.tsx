@@ -19,7 +19,7 @@ const NavbarDesk = ({ navItems }: { navItems: INavItem[] }) => {
       </div>
       <nav className="flex justify-center items-center flex-wrap gap-8">
         <motion.a
-          href="https://github.com/shivam-bhadani"
+          href="https://github.com/ucimazing"
           target="_blank"
           whileHover={{ y: -6 }}
           whileTap={{ scale: 1 }}
@@ -27,7 +27,7 @@ const NavbarDesk = ({ navItems }: { navItems: INavItem[] }) => {
           <GithubIcon className="w-6" />
         </motion.a>
         <motion.a
-          href="https://www.linkedin.com/in/shivambhadani/"
+          href="https://www.linkedin.com/in/umesh-das-4a4ba521a/"
           target="_blank"
           whileHover={{ y: -6 }}
           whileTap={{ scale: 1 }}
@@ -35,7 +35,7 @@ const NavbarDesk = ({ navItems }: { navItems: INavItem[] }) => {
           <LinkedInIcon className="w-6" />
         </motion.a>
         <motion.a
-          href="https://x.com/shivambhadani_"
+          href="https://x.com/umesh_das_"
           target="_blank"
           whileHover={{ y: -6 }}
           whileTap={{ scale: 1 }}
@@ -43,7 +43,7 @@ const NavbarDesk = ({ navItems }: { navItems: INavItem[] }) => {
           <TwitterIcon className="w-6" />
         </motion.a>
         <motion.a
-          href="https://www.instagram.com/shivambhadani_/"
+          href="https://www.instagram.com/ucmesh_das/"
           target="_blank"
           whileHover={{ y: -6 }}
           whileTap={{ scale: 1 }}

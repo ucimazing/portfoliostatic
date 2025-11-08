@@ -143,7 +143,7 @@ const NavbarMob = ({ navItems }: { navItems: INavItem[] }) => {
                   className="list-none flex justify-center gap-x-4"
                 >
                   <motion.a
-                    href="https://github.com/shivam-bhadani"
+                    href="https://github.com/ucimazing"
                     target="_blank"
                     whileHover={{ y: -6 }}
                     whileTap={{ scale: 1 }}
@@ -151,7 +151,7 @@ const NavbarMob = ({ navItems }: { navItems: INavItem[] }) => {
                     <GithubIcon className="w-6" />
                   </motion.a>
                   <motion.a
-                    href="https://www.linkedin.com/in/shivambhadani/"
+                    href="https://www.linkedin.com/in/umesh-das-4a4ba521a/"
                     target="_blank"
                     whileHover={{ y: -6 }}
                     whileTap={{ scale: 1 }}
@@ -159,7 +159,7 @@ const NavbarMob = ({ navItems }: { navItems: INavItem[] }) => {
                     <LinkedInIcon className="w-6" />
                   </motion.a>
                   <motion.a
-                    href="https://x.com/shivambhadani_"
+                    href="https://x.com/umesh_das_"
                     target="_blank"
                     whileHover={{ y: -6 }}
                     whileTap={{ scale: 1 }}
@@ -167,7 +167,7 @@ const NavbarMob = ({ navItems }: { navItems: INavItem[] }) => {
                     <TwitterIcon className="w-6" />
                   </motion.a>
                   <motion.a
-                    href="https://www.instagram.com/shivambhadani_/"
+                    href="https://www.instagram.com/ucmesh_das/"
                     target="_blank"
                     whileHover={{ y: -6 }}
                     whileTap={{ scale: 1 }}
